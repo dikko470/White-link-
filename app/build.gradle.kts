@@ -19,4 +19,4 @@ android {
 dependencies {
     implementation("androidx.core:core-ktx:1.15.0")
     implementation("com.google.android.gms:play-services-nearby:19.3.0")
-}￼Enter
+}
