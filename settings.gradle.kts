@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "WHITE-LINK"
-include(":app")￼Enter
+include(":app")
